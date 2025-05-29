@@ -5,9 +5,8 @@ import (
 	"database/sql"
 	"testing"
 	"time"
-
 	"github.com/stretchr/testify/require"
-	"github.com/techschool/simplebank/util"
+	"github.com/lam-dan/SimpleBank-Golang/util"
 )
 
 func createRandomAccount(t * testing.T) Account {

@@ -1,4 +1,4 @@
-module github.com/techschool/simplebank
+module github.com/lam-dan/SimpleBank-Golang
 
 go 1.24.3
 
