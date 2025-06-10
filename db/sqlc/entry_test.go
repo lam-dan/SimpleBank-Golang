@@ -9,8 +9,6 @@ import (
 	"github.com/lam-dan/SimpleBank-Golang/util"
 )
 
-
-
 func createRandomEntry(t * testing.T) Entry {
 	account := createRandomAccount(t)
 		arg := CreateEntryParams{
